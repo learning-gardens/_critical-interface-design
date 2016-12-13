@@ -1,2 +1,4 @@
 # future-interface-design
-TBD
+How do we think & build digital interfaces for the near future?
+
+## Readings
