@@ -4,6 +4,9 @@ In my observations of design culture, critical discussions of ethics, morals, an
 ## What is critical interface design?
 ![venn diagram](venn-diagram.jpg)
 
+>  "When we look for specific literature on interface design, we mainly find two types of books: declarations of intent in the form of good design principles, and books that describe patterns based on previous experiences. The weakness of both types is that they encourage an innocent approach to interface design. At a time when interfaces are a very important part of our culture, there is a need for much more mature reflection on how we want them to be designed." - Rosa Llop
+
+
 
 ## readings
 * https://interfacemanifesto.hangar.org/index.php/One_Size_Fits_None._Towards_Critical_Interface_Design_By_Rosa_Llop
