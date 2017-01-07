@@ -19,5 +19,5 @@ I'm thinking of setting up discussion groups that work in this order:
  2. Discussion on how to address those concerns in future interface design
 
 
- ## Extra
- If you would like to create a discussion, use branching...[details tbd]
+## Extra
+If you would like to create a discussion, use branching...[details tbd]
