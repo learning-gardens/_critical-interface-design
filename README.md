@@ -15,6 +15,7 @@ In my observations of design culture, critical discussions of ethics, morals, an
 6. What can history tell us about the future of product design?
 7. Balance of business and ethics
 8. The dopamine releases of using the internet media (addiction)
+9. Critique, collaboration, and ideation are words often used in design. They all point to one conclusion: Diversity leads to better solutions. Product design suffers from singularity (visual aesthetic + product thinking) due to its infancy. How might we begin to explore plurality?
 
 ## readings
 * https://interfacemanifesto.hangar.org/index.php/One_Size_Fits_None._Towards_Critical_Interface_Design_By_Rosa_Llop
