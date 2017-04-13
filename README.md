@@ -20,7 +20,7 @@ In my observations of design culture, critical discussions of ethics, morals, an
 ## readings
 * https://interfacemanifesto.hangar.org/index.php/One_Size_Fits_None._Towards_Critical_Interface_Design_By_Rosa_Llop
 - http://www.slideshare.net/daslutz/critical-interface-design
-- https://resilientwebdesign.com/
+- http://www.bruno-latour.fr/sites/default/files/112-DESIGN-CORNWALL-GB.pdf
 
 ## how does this work?
 I'm thinking of setting up discussion groups that work in this order:
