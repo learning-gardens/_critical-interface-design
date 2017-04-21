@@ -8,7 +8,7 @@ In my observations of design culture, critical discussions of ethics, morals, an
 
 > I want to see us ‘become together in space.’ A​nd I hope that instead of saying ‘virtual reality’ we could start thinking ‘shared reality.’ ​ There’s an incredible little poem by Audrey Tang (Taiwanese free software programmer, currently the first transgender minister in Taiwan) that’s been particularly relevant to me recently:
 
-`When we see ‘internet of things’, let’s make it an internet of beings.
+` When we see ‘internet of things’, let’s make it an internet of beings.
 
 When we see ‘virtual reality’, let’s make it a shared reality.
 
