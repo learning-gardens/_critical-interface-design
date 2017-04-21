@@ -6,6 +6,7 @@ In my observations of design culture, critical discussions of ethics, morals, an
 
 >  "When we look for specific literature on interface design, we mainly find two types of books: declarations of intent in the form of good design principles, and books that describe patterns based on previous experiences. The weakness of both types is that they encourage an innocent approach to interface design. At a time when interfaces are a very important part of our culture, there is a need for much more mature reflection on how we want them to be designed." - Rosa Llop
 
+### A thinking framework
 > I want to see us ‘become together in space.’ A​nd I hope that instead of saying ‘virtual reality’ we could start thinking ‘shared reality.’ ​ There’s an incredible little poem by Audrey Tang (Taiwanese free software programmer, currently the first transgender minister in Taiwan) that’s been particularly relevant to me recently:
 
 ```
