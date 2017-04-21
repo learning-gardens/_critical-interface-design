@@ -8,7 +8,7 @@ In my observations of design culture, critical discussions of ethics, morals, an
 
 > I want to see us ‘become together in space.’ A​nd I hope that instead of saying ‘virtual reality’ we could start thinking ‘shared reality.’ ​ There’s an incredible little poem by Audrey Tang (Taiwanese free software programmer, currently the first transgender minister in Taiwan) that’s been particularly relevant to me recently:
 
-“When we see ‘internet of things’, let’s make it an internet of beings.
+`When we see ‘internet of things’, let’s make it an internet of beings.
 
 When we see ‘virtual reality’, let’s make it a shared reality.
 
@@ -16,9 +16,8 @@ When we see ‘machine learning’, let’s make it collaborative learning.
 
 When we see ‘user experience’, let’s make it human experience.
 
-When we hear ‘the singularity is near’, let us remember the plurality is here.”
-
-The most inspiring future I can think of is really the one of a plurality of voices conversing together — and of us finally recognising that nature and humanity and technology are one and the same thing together, all elements of the dynamic, vulnerable ecosystem that planet Earth is — a connected, collaborative network.
+When we hear ‘the singularity is near’, let us remember the plurality is here.`
+> The most inspiring future I can think of is really the one of a plurality of voices conversing together — and of us finally recognising that nature and humanity and technology are one and the same thing together, all elements of the dynamic, vulnerable ecosystem that planet Earth is — a connected, collaborative network.
 
 ## questions/trends i've been pondering
 1. How do we build things that can potentially last forever?
