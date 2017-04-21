@@ -6,6 +6,20 @@ In my observations of design culture, critical discussions of ethics, morals, an
 
 >  "When we look for specific literature on interface design, we mainly find two types of books: declarations of intent in the form of good design principles, and books that describe patterns based on previous experiences. The weakness of both types is that they encourage an innocent approach to interface design. At a time when interfaces are a very important part of our culture, there is a need for much more mature reflection on how we want them to be designed." - Rosa Llop
 
+>I want to see us ‘become together in space.’ A​nd I hope that instead of saying ‘virtual reality’ we could start thinking ‘shared reality.’ ​ There’s an incredible little poem by Audrey Tang (Taiwanese free software programmer, currently the first transgender minister in Taiwan) that’s been particularly relevant to me recently:
+
+“When we see ‘internet of things’, let’s make it an internet of beings.
+
+When we see ‘virtual reality’, let’s make it a shared reality.
+
+When we see ‘machine learning’, let’s make it collaborative learning.
+
+When we see ‘user experience’, let’s make it human experience.
+
+When we hear ‘the singularity is near’, let us remember the plurality is here.”
+
+The most inspiring future I can think of is really the one of a plurality of voices conversing together — and of us finally recognising that nature and humanity and technology are one and the same thing together, all elements of the dynamic, vulnerable ecosystem that planet Earth is — a connected, collaborative network.
+
 ## questions/trends i've been pondering
 1. How do we build things that can potentially last forever?
 2. Is there more to product design that satisfying instant gratification culture?
@@ -21,6 +35,7 @@ In my observations of design culture, critical discussions of ethics, morals, an
 * https://interfacemanifesto.hangar.org/index.php/One_Size_Fits_None._Towards_Critical_Interface_Design_By_Rosa_Llop
 - http://www.slideshare.net/daslutz/critical-interface-design
 - http://www.bruno-latour.fr/sites/default/files/112-DESIGN-CORNWALL-GB.pdf
+- http://www.digility.de/index.php?id=interview-monika-bielskyte
 
 ## how does this work?
 I'm thinking of setting up discussion groups that work in this order:
